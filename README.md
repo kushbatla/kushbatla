@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kush Batla</h1>
 <h3 align="center">Full Stack || Android </h3>
-<h3 Languages and Tools>
+<h3 align="center"> Languages and Tools I use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,javascript,androidstudio,c,cpp,python,react,nodejs,kotlin,mongodb,swift,apple,vscode,css,html" />
