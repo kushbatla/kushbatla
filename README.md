@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kush Batla</h1>
+<h3 align="center">Full Stack || Android </h3>
+<h3 Languages and Tools>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,javascript,androidstudio,c,cpp,python,react,nodejs,kotlin,mongodb,swift,apple,vscode,css,html" />
+  </a>
+</p>
 
 <!--
 **kushbatla/kushbatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
