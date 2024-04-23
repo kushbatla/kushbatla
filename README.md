@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kush Batla</h1>
-<h3 align="center">Full Stack || Android </h3>
+<h3 align="center">Full Stack || Mobile Dev </h3>
 <h3 align="center"> Languages and Tools I use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
